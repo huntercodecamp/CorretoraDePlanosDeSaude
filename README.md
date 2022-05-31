@@ -1,3 +1,4 @@
 # CorretoraDePlanosDeSaude
-Objetivo
-O objetivo é construit um landing page para corretora de planos de saúde Aline laurentino.
+Objetivo.
+
+O objetivo deste repositório é construir um site para corretora de planos de saúde Aline laurentino.
